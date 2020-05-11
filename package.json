@@ -1,0 +1,29 @@
+{
+  "name": "inwerter-vue",
+  "version": "0.1.0",
+  "description": "Smooth DI solution for Vue applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulowski-marek/inwerter-vue.git"
+  },
+  "keywords": [
+    "inwerter",
+    "vue",
+    "di",
+    "ioc"
+  ],
+  "author": {
+    "name": "Marek Dulowski",
+    "email": "dulowski.marek@gmail.com",
+    "url": "https://dulowski.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dulowski-marek/inwerter-vue/issues"
+  },
+  "homepage": "https://github.com/dulowski-marek/inwerter-vue#readme"
+}
